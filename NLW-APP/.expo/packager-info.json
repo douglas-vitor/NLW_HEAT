@@ -1,0 +1,8 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://y7-t8c.anonymous.nlw-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.y7-t8c.anonymous.nlw-app.exp.direct",
+  "ngrokPid": 7364,
+  "devToolsPort": 19002
+}

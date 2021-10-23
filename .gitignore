@@ -1,0 +1,16 @@
+NLW-NODE/node_modules
+# Keep environment variables out of version control
+NLW-NODE/.env
+NLW-NODE/prisma/*.db
+NLW-NODE/prisma/*.db-journal
+NLW-NODE/prisma/migrations
+
+NLW-WEB/node_modules
+NLW-WEB/.DS_Store
+NLW-WEB/dist
+NLW-WEB/dist-ssr
+NLW-WEB/*.local
+NLW-WEB/.gitignore
+
+NLW-APP/node_modules
+NLW-APP/.gitignore
