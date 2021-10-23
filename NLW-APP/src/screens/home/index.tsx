@@ -12,7 +12,7 @@ export function Home() {
         <View style={styles.container}>
             <Header />
             <MessageList />
-            <SendMessageForm />
+            <SignInBox />
         </View>
     )
 }
