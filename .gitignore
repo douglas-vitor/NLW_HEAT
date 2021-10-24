@@ -14,3 +14,4 @@ NLW-WEB/.gitignore
 
 NLW-APP/node_modules
 NLW-APP/.gitignore
+NLW-APP/.expo
