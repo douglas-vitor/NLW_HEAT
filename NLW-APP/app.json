@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "nlwapp",
-    "slug": "nlwapp",
+    "name": "nlw-app",
+    "slug": "nlw-app",
     "version": "1.0.0",
-    "scheme": "nlwapp",
+    "scheme": "nlw-app",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
